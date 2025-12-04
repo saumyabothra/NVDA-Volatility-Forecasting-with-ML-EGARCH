@@ -40,8 +40,7 @@ This script:
 6. Outputs appear in the outputs/ and plots/ folders.
 
 
-***The model is better at forecasting volatility than price direction — which is expected for financial time-series.
-Project Structure***
+***The model is better at forecasting volatility than price direction — which is expected for financial time-series.***
 
 ## Customizing the Model
 To experiment with different ideas, you can:
