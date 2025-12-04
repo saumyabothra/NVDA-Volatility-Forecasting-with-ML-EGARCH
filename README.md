@@ -13,9 +13,10 @@ The objective of this project is show how traditional volatility models and ML c
 
 ## Dataset
 The data is pulled directly from Yahoo Finance using R.
-Ticker: NVDA
-Frequency: Daily OHLCV
-Period: 1999–present
+- Ticker: NVDA
+- Frequency: Daily OHLCV
+- Period: 1999–present
+
 I initially used a Kaggle dataset for offline testing and also just to see if the model was working lol.
 Raw data will be fetched automatically when you run the pipeline.
 
